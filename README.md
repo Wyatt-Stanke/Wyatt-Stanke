@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi! I'm Wyatt
+**Hi! I'm Wyatt! I'm a nerd/professional StackOverflow'er/pizza enthusiast.**
+
+⚒️  I'm currently working on...
+- 🔡  Letters With Strangers | A discord bot that is like Scrabble + Letter Jam (currently
+- ⚔️  OpenPVP | An open source minecraft client
+- ⬇️  Updating my README.md!
+
+🌱  I'm currently learning:
+- 🎵 C#
+- 🧠 Tensorflow
+- ➡️ GoLang
 
 <!--
 **Wyatt-Stanke/Wyatt-Stanke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
