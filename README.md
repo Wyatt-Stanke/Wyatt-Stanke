@@ -5,7 +5,7 @@
 - 🔡  Letters With Strangers | A discord bot that is like Scrabble + Letter Jam (currently private)
 - 🐝  Swarm | Automation for Minecraft™
 - 📌  Pushing all of my old projects to GitHub so my profile looks better.
-- ⬇️  Updating my README.md!
+- ⬇️  Updating this file!
 
 🌱  I'm currently learning:
 - 🎵 C#
