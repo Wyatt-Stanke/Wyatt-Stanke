@@ -12,6 +12,10 @@
 - 🧠 Tensorflow
 - ➡️ GoLang
 
+And now, a random dev joke:
+
+
+<img src="https://readme-jokes.vercel.app/api" alt="Sorry 😦, no jokes for you!" class="joke"/>
 <!--
 **Wyatt-Stanke/Wyatt-Stanke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
