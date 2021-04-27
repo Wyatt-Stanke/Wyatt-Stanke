@@ -2,8 +2,9 @@
 **Hi! I'm Wyatt! I'm a nerd/professional StackOverflow'er/pizza enthusiast.**
 
 ⚒️  I'm currently working on...
-- 🔡  Letters With Strangers | A discord bot that is like Scrabble + Letter Jam (currently
+- 🔡  Letters With Strangers | A discord bot that is like Scrabble + Letter Jam (currently private)
 - ⚔️  OpenPVP | An open source minecraft client
+- 📌  Pushing all of my old projects to GitHub so my profile looks better.
 - ⬇️  Updating my README.md!
 
 🌱  I'm currently learning:
