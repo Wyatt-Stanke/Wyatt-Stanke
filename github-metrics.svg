@@ -484,7 +484,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PyO3/pyo3</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust bindings for the Python interpreter</div>
@@ -537,7 +537,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>huggingface/transformers</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.</div>
@@ -745,7 +745,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jul 2022, 23:38:45 (timezone America/New_York) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 20 Jul 2022, 00:35:40 (timezone America/New_York) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
