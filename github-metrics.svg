@@ -484,7 +484,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>radix-ui/primitives</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.</div>
@@ -537,7 +537,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>extrawurst/gitui</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Blazing 💥 fast terminal-ui for git written in rust 🦀</div>
@@ -711,7 +711,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jul 2022, 18:12:55 (timezone America/New_York) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 21 Jul 2022, 19:14:25 (timezone America/New_York) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
