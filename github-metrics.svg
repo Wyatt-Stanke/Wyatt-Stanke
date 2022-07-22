@@ -484,7 +484,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>botpress/botpress</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect &amp; deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).</div>
@@ -537,7 +537,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mashcard/mashcard</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open-source web-based OS and no-code PaaS to boost productivity.</div>
@@ -590,7 +590,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>radix-ui/primitives</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.</div>
@@ -643,7 +643,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>extrawurst/gitui</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Blazing 💥 fast terminal-ui for git written in rust 🦀</div>
@@ -711,7 +711,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jul 2022, 04:18:39 (timezone America/New_York) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 22 Jul 2022, 05:13:08 (timezone America/New_York) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
