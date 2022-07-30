@@ -484,7 +484,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>not-yet-awesome-rust/not-yet-awesome-rust</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of Rust code and resources that do NOT exist yet, but would be beneficial to the Rust community.</div>
@@ -531,7 +531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>upx/upx</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">UPX - the Ultimate Packer for eXecutables</div>
@@ -584,7 +584,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>djsime1/awesome-flipperzero</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🐬 A collection of awesome resources for the Flipper Zero device.</div>
@@ -733,7 +733,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Jul 2022, 00:33:36 (timezone America/New_York) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 30 Jul 2022, 01:16:28 (timezone America/New_York) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
