@@ -483,7 +483,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Spu7Nix/SPWN-language</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A language for Geometry Dash triggers</div>
@@ -536,7 +536,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ange-yaghi/engine-sim</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Combustion engine simulator that generates realistic audio.</div>
@@ -570,7 +570,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        65
+                                        66
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -589,7 +589,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NoahCardoza/CaptchaHarvester</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Solve captchas yourself without having to pay for services like 2captcha for use in automated projects.</div>
@@ -744,7 +744,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Aug 2022, 06:13:06 (timezone America/New_York) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 14 Aug 2022, 07:11:19 (timezone America/New_York) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
