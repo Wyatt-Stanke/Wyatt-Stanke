@@ -483,7 +483,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>napi-rs/napi-rs</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A framework for building compiled Node.js add-ons in Rust via Node-API</div>
@@ -536,7 +536,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>favware/cliff-jumper</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A small CLI tool to create a semantic release and git-cliff powered Changelog</div>
@@ -589,7 +589,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>changesets/changesets</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🦋       A way to manage your versioning and changelogs with a focus on monorepos</div>
@@ -623,7 +623,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        397
+                                        398
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -729,7 +729,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">b3ca0e15</span>
-                            <span class="code">terraform/example/main.tf</span>
+                            <span class="code">terraform/example/terraform.tfvars.example</span>
                             <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--1</span></span>
                         </div>
                     </section>
@@ -737,14 +737,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -7,7 +7,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">bigquery_region     = var.bigquery_region<br /></span><span class="token prefix unchanged">·</span><span class="token line">parsers             = var.parsers<br /></span><span class="token prefix unchanged">·</span><span class="token line"># Uncomment the following container url variables if enable_build_images is set to false:<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line"># event-handler_container_url = var.event-handler_container_url<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"># event_handler_container_url = var.event_handler_container_url<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"># dashboard_container_url     = var.dashboard_container_url<br /></span><span class="token prefix unchanged">·</span><span class="token line"># parser_container_urls       = var.parser_container_urls<br /></span><span class="token prefix unchanged">·</span><span class="token line">}</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -7,7 +7,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line"># The variables below are only required if enable_build_images is set to false<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line"># event-handler_container_url = "&lt;event-handler_CONTAINER_URL&gt;"<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"># event_handler_container_url = "&lt;event_handler_CONTAINER_URL&gt;"<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"># dashboard_container_url = "&lt;DASHBOARD_CONTAINER_URL&gt;"<br /></span><span class="token prefix unchanged">·</span><span class="token line"># parser_container_urls = {<br /></span><span class="token prefix unchanged">·</span><span class="token line">#     '&lt;PARSER_NAME&gt;': '&lt;PARSER_URL&gt;'</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Aug 2022, 21:18:06 (timezone America/New_York) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 17 Aug 2022, 23:58:40 (timezone America/New_York) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
