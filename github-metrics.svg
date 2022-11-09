@@ -589,7 +589,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>crxjs/chrome-extension-tools</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Bundling Chrome Extensions can be pretty complex. It doesn't have to be.</div>
@@ -636,7 +636,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RustAudio/vst-rs</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">VST 2.4 API implementation in rust. Create plugins or hosts. Previously rust-vst on the RustDSP group.</div>
@@ -704,7 +704,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Nov 2022, 11:31:24 (timezone America/New_York) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 9 Nov 2022, 12:01:33 (timezone America/New_York) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
