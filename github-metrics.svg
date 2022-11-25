@@ -530,7 +530,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aurae-runtime/aurae</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Distributed systems runtime daemon written in Rust.</div>
@@ -583,7 +583,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>leftwm/leftwm</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tiling window manager for Adventurers</div>
@@ -636,7 +636,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hiroki0525/idle-task</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Improve your website performance by executing JavaScript during a browser's idle periods.</div>
@@ -704,7 +704,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Nov 2022, 14:21:08 (timezone America/New_York) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 25 Nov 2022, 14:29:46 (timezone America/New_York) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
