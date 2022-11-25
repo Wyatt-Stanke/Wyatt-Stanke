@@ -483,7 +483,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>danielgatis/rembg</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rembg is a tool to remove images background.</div>
@@ -583,7 +583,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aurae-runtime/aurae</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Distributed systems runtime daemon written in Rust.</div>
@@ -636,7 +636,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>leftwm/leftwm</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tiling window manager for Adventurers</div>
@@ -704,7 +704,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Nov 2022, 18:20:07 (timezone America/New_York) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 25 Nov 2022, 18:31:47 (timezone America/New_York) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
