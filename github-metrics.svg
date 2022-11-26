@@ -536,7 +536,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chubin/awesome-console-services</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)</div>
@@ -583,7 +583,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aurae-runtime/aurae</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Distributed systems runtime daemon written in Rust.</div>
@@ -636,7 +636,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>leftwm/leftwm</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tiling window manager for Adventurers</div>
@@ -704,7 +704,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Nov 2022, 01:22:57 (timezone America/New_York) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 26 Nov 2022, 01:38:18 (timezone America/New_York) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
