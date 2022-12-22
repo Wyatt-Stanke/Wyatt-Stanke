@@ -734,7 +734,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">824da269</span>
-                            <span class="code">target/debug/.fingerprint/gloo-timers-01b4794c954e3a14/lib-gloo-timers.json</span>
+                            <span class="code">target/debug/.fingerprint/futures-channel-3d71ae687a2b9169/run-build-script-build-script-build.json</span>
                             <span class="code"><span class="snippet additions">++0</span> <span class="snippet deletions">--1</span></span>
                         </div>
                     </section>
@@ -742,14 +742,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">{"rustc":13646863235972240414,"features":"[\"default\"]","target":14861344268829376063,"profile":12637318739757120569,"path":2310862296991324054,"deps":[[972122636773167818,"wasm_bindgen",false,4353458313783879138],[8332931820203245911,"js_sys",false,12531791231477990120]],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/gloo-timers-01b4794c954e3a14/dep-lib-gloo-timers"}}],"rustflags":[],"metadata":505096607889284628,"config":2202906307356721367,"compile_kind":0}<br /></span></span>\No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">{"rustc":13646863235972240414,"features":"","target":0,"profile":0,"path":0,"deps":[[521072703128045091,"build_script_build",false,262949683423188510]],"local":[{"RerunIfChanged":{"output":"debug/build/futures-channel-3d71ae687a2b9169/output","paths":["no_atomic_cas.rs"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}<br /></span></span>\No newline at end of file</code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Dec 2022, 16:39:02 (timezone America/New_York) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 22 Dec 2022, 16:47:37 (timezone America/New_York) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
