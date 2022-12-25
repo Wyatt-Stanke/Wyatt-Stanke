@@ -488,7 +488,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tridactyl/tridactyl</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.</div>
@@ -541,7 +541,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>matteobruni/tsparticles</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.</div>
@@ -715,7 +715,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Dec 2022, 14:53:15 (timezone America/New_York) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 25 Dec 2022, 15:03:40 (timezone America/New_York) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
