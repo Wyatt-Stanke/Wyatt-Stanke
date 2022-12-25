@@ -488,7 +488,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>andybarron/tokio-rayon</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mix async code with CPU-heavy thread pools using Tokio + Rayon</div>
@@ -541,7 +541,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mattsse/voyager</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">crawl and scrape web pages in rust</div>
@@ -715,7 +715,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Dec 2022, 01:59:02 (timezone America/New_York) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 25 Dec 2022, 02:14:41 (timezone America/New_York) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
