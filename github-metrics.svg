@@ -488,7 +488,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Zgoly/Meteorist</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Adds additional functionality to Meteor Client ☄️, for example AutoLogin and AutoLeave.</div>
@@ -541,7 +541,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jakobhellermann/bevy_editor_pls</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">In-App editor tools for bevy applications</div>
@@ -635,7 +635,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PrincessAkira/road-to-yuzu-without-switch</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This Repo explains how to install the Yuzu Switch Emulator without a Switch</div>
@@ -697,7 +697,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Dec 2022, 12:44:16 (timezone America/New_York) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 27 Dec 2022, 12:52:33 (timezone America/New_York) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
