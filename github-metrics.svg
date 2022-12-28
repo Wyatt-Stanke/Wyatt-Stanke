@@ -488,7 +488,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>orhun/git-cliff</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️</div>
@@ -541,7 +541,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>huggingface/tokenizers</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">💥 Fast State-of-the-Art Tokenizers optimized for Research and Production</div>
@@ -715,7 +715,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Dec 2022, 01:36:11 (timezone America/New_York) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 28 Dec 2022, 01:45:06 (timezone America/New_York) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
