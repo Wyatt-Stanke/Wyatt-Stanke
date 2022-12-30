@@ -541,7 +541,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-secure-code/safety-dance</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Auditing crates for unsafe code which can be safely replaced</div>
@@ -641,7 +641,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fabacab/awesome-lockpicking</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -707,7 +707,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Dec 2022, 22:55:31 (timezone America/New_York) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 29 Dec 2022, 23:12:50 (timezone America/New_York) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
