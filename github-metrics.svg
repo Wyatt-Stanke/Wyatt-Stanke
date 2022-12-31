@@ -541,7 +541,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rShetty/awesome-podcasts</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Collection of awesome podcasts</div>
@@ -582,7 +582,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>malwaredllc/byob</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open-source post-exploitation framework for students, researchers and developers.</div>
@@ -703,7 +703,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Dec 2022, 08:38:21 (timezone America/New_York) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 31 Dec 2022, 08:47:16 (timezone America/New_York) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
