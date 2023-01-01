@@ -488,7 +488,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DarkFlippers/unleashed-firmware</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Flipper Zero Unleashed Firmware</div>
@@ -588,7 +588,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mat-1/azalea</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of Rust crates for making Minecraft bots, clients, and tools.</div>
@@ -641,7 +641,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dagster-io/dagster</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An orchestration platform for the development, production, and observation of data assets.</div>
@@ -709,7 +709,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Jan 2023, 13:29:24 (timezone America/New_York) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 1 Jan 2023, 13:39:26 (timezone America/New_York) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
