@@ -734,7 +734,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">3e2a2ad7</span>
-                            <span class="code">xrick_libretro.wasm</span>
+                            <span class="code">arduous_libretro.wasm</span>
                             <span class="code"><span class="snippet additions">++2</span> <span class="snippet deletions">--2</span></span>
                         </div>
                     </section>
@@ -742,14 +742,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,3 +1,3 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">version https://git-lfs.github.com/spec/v1<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">oid sha256:ec85579885d72d16c13722a01ce25fb438c15ad3476bc2597658f105016af33c<br /></span><span class="token prefix deleted">-</span><span class="token line">size 2148927<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">oid sha256:962ec7f6c40d2fa6d672f32fc748eb0133fbef6d6dcb8a4733093479e883dcb6<br /></span><span class="token prefix inserted">+</span><span class="token line">size 2179128</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,3 +1,3 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">version https://git-lfs.github.com/spec/v1<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">oid sha256:cb0ed563248e5d8dd520a36bce78c70478e677ab3b8b7f6694bca546efe61343<br /></span><span class="token prefix deleted">-</span><span class="token line">size 2146050<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">oid sha256:81012cc3b3c7513ec98968048ebc275239906d32317eb146eed1d122a8b80390<br /></span><span class="token prefix inserted">+</span><span class="token line">size 2176200</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Feb 2023, 17:29:04 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 9 Feb 2023, 17:39:23 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
