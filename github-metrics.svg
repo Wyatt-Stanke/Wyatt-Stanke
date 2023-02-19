@@ -500,7 +500,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LazyVim/LazyVim</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Neovim config for the lazy</div>
@@ -553,7 +553,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nuxt/nuxt</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.</div>
@@ -606,7 +606,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Unleash/unleash</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simplify your code production through the world’s largest open-source feature management platform.</div>
@@ -659,7 +659,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PistonDevelopers/hematite</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple Minecraft written in Rust with the Piston game engine</div>
@@ -748,7 +748,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">c9555c28</span>
-                            <span class="code">apollo-hyper/apollo-hyper-libretro-cores/apollo-hyper-libretro-core-genesis-plus-gx/Cargo.toml</span>
+                            <span class="code">apollo-hyper/apollo-hyper-libretro-cores/apollo-hyper-libretro-core-neocd/Cargo.toml</span>
                             <span class="code"><span class="snippet additions">++3</span> <span class="snippet deletions">--0</span></span>
                         </div>
                     </section>
@@ -763,7 +763,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Feb 2023, 17:01:48 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 19 Feb 2023, 17:20:29 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
