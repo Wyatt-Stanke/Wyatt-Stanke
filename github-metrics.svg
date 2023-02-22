@@ -504,7 +504,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>olofk/fusesoc</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Package manager and build abstraction tool for FPGA/ASIC development</div>
@@ -557,7 +557,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lnis-uofu/OpenFPGA</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An Open-source FPGA IP Generator</div>
@@ -731,7 +731,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Feb 2023, 03:19:26 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 22 Feb 2023, 03:36:31 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
