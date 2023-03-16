@@ -604,7 +604,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iliekturtles/uom</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Units of measurement -- type-safe zero-cost dimensional analysis</div>
@@ -657,7 +657,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>anymaniax/orval</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺</div>
@@ -759,7 +759,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Mar 2023, 21:43:54 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 15 Mar 2023, 22:32:30 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
