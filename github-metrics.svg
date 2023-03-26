@@ -504,7 +504,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>THUDM/CogVideo</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Text-to-video generation. The repo for ICLR2023 paper "CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers"</div>
@@ -557,7 +557,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>THUDM/ChatGLM-6B</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ChatGLM-6B：开源双语对话语言模型  | An Open Bilingual Dialogue Language Model</div>
@@ -610,7 +610,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>THUDM/CodeGeeX</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CodeGeeX: An Open Multilingual Code Generation Model</div>
@@ -663,7 +663,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nsarrazin/serge</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.</div>
@@ -765,7 +765,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Mar 2023, 01:26:24 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 26 Mar 2023, 01:35:37 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
