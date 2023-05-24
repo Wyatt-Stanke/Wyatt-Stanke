@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    928k added, 598k removed
+                                    927k added, 597k removed
                                 </div>
                             </section>
                             <section>
@@ -492,7 +492,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mackorone/mms</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Micromouse simulator: write and test maze-solving code without a physical robot</div>
@@ -726,7 +726,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">0627b4ba</span>
-                            <span class="code">quilt/1.18.2/pack.toml</span>
+                            <span class="code">quilt/1.19.3/pack.toml</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -737,14 +737,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -6,7 +6,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">[index]<br /></span><span class="token prefix unchanged">·</span><span class="token line">file = "index.toml"<br /></span><span class="token prefix unchanged">·</span><span class="token line">hash-format = "sha256"<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">hash = "9bbf734a9bba4a98837a2290675b8a878856e3247a5fbf9d9466bf8ef206fbad"<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">hash = "cdd2d06445b3fec870057b0469212da1891848996ec15d1af92da2fb201f1ac4"<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">[versions]<br /></span><span class="token prefix unchanged">·</span><span class="token line">minecraft = "1.18.2"</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -6,7 +6,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">[index]<br /></span><span class="token prefix unchanged">·</span><span class="token line">file = "index.toml"<br /></span><span class="token prefix unchanged">·</span><span class="token line">hash-format = "sha256"<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">hash = "1e4a26407de289b3d525b5843ab0e3fe993363b1f0655daf12491e1e1e2aff6a"<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">hash = "528403724403f13d2a50da22236fdca291b0d564281473e37dea2f168b2c8cf8"<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">[versions]<br /></span><span class="token prefix unchanged">·</span><span class="token line">minecraft = "1.19.3"</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 May 2023, 18:23:31 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 24 May 2023, 18:30:12 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
