@@ -589,7 +589,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>QuiltMC/chasm</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Chasm is a java bytecode transformer designed to handle collision between transformers wherever possible.</div>
@@ -642,7 +642,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>QuiltMC/quilt-loader</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The loader for Quilt mods.</div>
@@ -747,7 +747,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jun 2023, 16:03:34 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 19 Jun 2023, 16:12:49 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
