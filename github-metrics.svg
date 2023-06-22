@@ -488,7 +488,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>conaticus/FileExplorer</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast file explorer written with Tauri and React.</div>
@@ -535,7 +535,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Linen-dev/linen.dev</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lightweight Google-searchable Slack alternative for Communities</div>
@@ -588,7 +588,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chakra-ui/panda</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️</div>
@@ -641,7 +641,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>derivator/tafkars</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -747,7 +747,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jun 2023, 10:47:35 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 22 Jun 2023, 10:54:16 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
