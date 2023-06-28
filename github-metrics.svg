@@ -588,7 +588,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>itzg/docker-minecraft-server</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Docker image that provides a Minecraft Server that will automatically download selected version at startup</div>
@@ -641,7 +641,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>palera1n/palen1x</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Alpine-based distro that lets you install rootful and rootless palera1n-c.</div>
@@ -746,7 +746,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jun 2023, 17:22:36 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 28 Jun 2023, 17:29:25 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
