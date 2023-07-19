@@ -532,7 +532,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/DeepSpeed</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.</div>
@@ -585,7 +585,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>build-trust/ockam</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale. Use Ockam to build secure-by-design applications that can Trust Data-in-Motion.</div>
@@ -743,7 +743,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jul 2023, 02:54:10 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 19 Jul 2023, 03:00:53 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
