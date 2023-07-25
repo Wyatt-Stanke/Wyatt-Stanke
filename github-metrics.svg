@@ -644,7 +644,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>danswer-ai/danswer</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.</div>
@@ -749,7 +749,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jul 2023, 13:17:58 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 25 Jul 2023, 13:25:49 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
