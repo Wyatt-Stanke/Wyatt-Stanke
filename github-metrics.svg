@@ -484,7 +484,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>winglang/wing</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Wing Programming Language</div>
@@ -537,7 +537,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>andreabergia/rjvm</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tiny JVM written in Rust. Learning project</div>
@@ -748,7 +748,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jul 2023, 02:47:55 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 25 Jul 2023, 02:55:21 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
