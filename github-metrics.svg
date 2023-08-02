@@ -484,7 +484,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>golang-jwt/jwt</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Community maintained clone of https://github.com/dgrijalva/jwt-go</div>
@@ -537,7 +537,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aquasecurity/tfsec</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Security scanner for your Terraform code</div>
@@ -590,7 +590,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hashicorp/vault</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tool for secrets management, encryption as a service, and privileged access management</div>
@@ -748,7 +748,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Aug 2023, 22:36:31 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 1 Aug 2023, 22:42:59 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
