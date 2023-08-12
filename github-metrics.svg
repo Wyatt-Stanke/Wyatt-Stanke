@@ -483,7 +483,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chromium/chromium</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The official GitHub mirror of the Chromium source</div>
@@ -741,7 +741,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Aug 2023, 16:52:19 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 12 Aug 2023, 16:59:03 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
