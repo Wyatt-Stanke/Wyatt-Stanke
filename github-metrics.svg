@@ -483,7 +483,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rustfoundation/painter</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Library and tools for managing ecosystem wide call graphs and llvm-ir analysis</div>
@@ -747,7 +747,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Aug 2023, 01:27:13 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 12 Aug 2023, 01:34:15 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
