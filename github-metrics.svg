@@ -483,7 +483,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>morph-labs/rift</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rift: an AI-native language server for your personal AI software engineer</div>
@@ -536,7 +536,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>moment/luxon</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⏱ A library for working with dates and times in JS</div>
@@ -589,7 +589,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>schlagmichdoch/PairDrop</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PairDrop: Local file sharing in your browser. Inspired by Apple's AirDrop. Fork of Snapdrop.</div>
@@ -642,7 +642,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>json-iterator/go</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A high-performance 100% compatible drop-in replacement of "encoding/json"</div>
@@ -747,7 +747,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Aug 2023, 02:07:42 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 13 Aug 2023, 02:17:53 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
