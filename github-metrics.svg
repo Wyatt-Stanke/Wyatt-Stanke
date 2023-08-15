@@ -483,7 +483,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>comp500/BorderlessMining</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A windowed borderless (fullscreen) mod for 1.15.2 and newer versions of Minecraft</div>
@@ -536,7 +536,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GenericCoding/kfd</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">kfd, short for kernel file descriptor, is a project to read and write kernel memory on Apple devices.</div>
@@ -589,7 +589,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alexPNG/FreeFall</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fork of FreeFall originally created by Steven Rolfe.</div>
@@ -747,7 +747,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Aug 2023, 17:10:59 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 15 Aug 2023, 17:18:47 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
