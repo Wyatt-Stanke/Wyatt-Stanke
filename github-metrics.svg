@@ -483,7 +483,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PrismarineJS/prismarine-physics</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Provide the physics engine for minecraft entities</div>
@@ -536,7 +536,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vespa-engine/vespa</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The open big data serving engine. https://vespa.ai</div>
@@ -589,7 +589,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>isXander/YetAnotherConfigLib</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">YetAnotherConfigLib (yacl) is just that. A builder-based configuration library for Minecraft.</div>
@@ -642,7 +642,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>teaxyz/pantry</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">pkg manifests</div>
@@ -741,7 +741,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Aug 2023, 01:06:57 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 17 Aug 2023, 01:16:04 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
