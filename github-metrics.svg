@@ -483,7 +483,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>plbrault/youre-the-os</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A game where you are a computer's OS and you have to manage processes, memory and I/O events.</div>
@@ -536,7 +536,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NationalSecurityAgency/ghidra</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ghidra is a software reverse engineering (SRE) framework</div>
@@ -735,7 +735,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Aug 2023, 04:25:30 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 24 Aug 2023, 04:32:33 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
