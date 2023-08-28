@@ -483,7 +483,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ipld/ipld</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">InterPlanetary Linked Data</div>
@@ -536,7 +536,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mindsdb/mindsdb</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MindsDB connects AI models to databases.</div>
@@ -589,7 +589,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>qutebrowser/qutebrowser</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A keyboard-driven, vim-like browser based on Python and Qt.</div>
@@ -642,7 +642,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rescript-association/reanalyze</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Experimental analyses for ReScript and OCaml: globally dead values/types, exception analysis, and termination analysis.</div>
@@ -747,7 +747,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Aug 2023, 21:20:51 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 27 Aug 2023, 21:40:30 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
