@@ -483,7 +483,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>opentffoundation/manifesto</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source license.</div>
@@ -536,7 +536,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>satwikkansal/wtfpython</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">What the f*ck Python? 😱</div>
@@ -747,7 +747,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Aug 2023, 00:42:50 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 30 Aug 2023, 00:49:42 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
