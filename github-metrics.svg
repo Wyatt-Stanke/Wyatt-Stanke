@@ -541,7 +541,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lukeed/mri</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Quickly scan for CLI flags and arguments</div>
@@ -594,7 +594,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>unjs/citty</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🌆 Elegant CLI Builder</div>
@@ -752,7 +752,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Sept 2023, 19:07:26 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 3 Sept 2023, 19:16:43 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
