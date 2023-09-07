@@ -488,7 +488,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ParadigmMC/mcman</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Powerful Minecraft Server Manager CLI. Easily install jars (server, plugins &amp; mods) and write config files. Docker and git support included.</div>
@@ -541,7 +541,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>substratusai/substratus</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Deploy and finetune LLMs on K8s</div>
@@ -594,7 +594,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Farama-Foundation/D4RL</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of reference environments for offline reinforcement learning</div>
@@ -752,7 +752,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Sept 2023, 15:45:28 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 7 Sept 2023, 15:52:32 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
