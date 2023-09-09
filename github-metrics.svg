@@ -488,7 +488,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pop-os/cosmic-text</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pure Rust multi-line text handling</div>
@@ -541,7 +541,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Jondolf/bevy_xpbd</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">2D and 3D physics engine based on Extended Position Based Dynamics for Bevy.</div>
@@ -647,7 +647,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>a-b-street/abstreet</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit</div>
@@ -752,7 +752,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Sept 2023, 21:39:31 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 8 Sept 2023, 21:55:40 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
