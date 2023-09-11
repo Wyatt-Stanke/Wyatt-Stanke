@@ -641,7 +641,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hotwired/turbo</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The speed of a single-page web application without having to write any JavaScript</div>
@@ -746,7 +746,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Sept 2023, 01:14:53 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 11 Sept 2023, 01:23:51 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
