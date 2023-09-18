@@ -536,7 +536,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>runabol/tork</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A distributed workflow engine</div>
@@ -589,7 +589,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>smallstep/cli</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.</div>
@@ -747,7 +747,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Sept 2023, 03:26:00 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Sept 2023, 03:32:57 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
