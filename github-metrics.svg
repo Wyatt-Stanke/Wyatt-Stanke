@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1393" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1406" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    130k added, 89.2k removed
+                                    1.15m added, 951k removed
                                 </div>
                             </section>
                             <section>
@@ -707,7 +707,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">b955d507</span>
-                            <span class="code">slowroads.io/_app/immutable/chunks/index.85bbc95f.js</span>
+                            <span class="code">slowroads.io/_app/immutable/nodes/0.e1749fc5.js</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--0</span>
@@ -718,14 +718,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">import{n as f,s as l}from"./scheduler.6cda8fd7.js";const e=[];function h(n,b=f){let i;const o=new Set;function r(t){if(l(n,t)&amp;&amp;(n=t,i)){const c=!e.length;for(const s of o)s[1](),e.push(s,n);if(c){for(let s=0;s&lt;e.length;s+=2)e[s][0](e[s+1]);e.length=0}}}function u(t){r(t(n))}function p(t,c=f){const s=[t,c];return o.add(s),o.size===1&amp;&amp;(i=b(r,u)||f),t(n),()=&gt;{o.delete(s),o.size===0&amp;&amp;i&amp;&amp;(i(),i=null)}}return{set:r,update:u,subscribe:p}}export{h as w};</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">import{s as l,c as r,u as i,g as u,d as f}from"../chunks/scheduler.6cda8fd7.js";import{S as _,i as c,d as p,t as d}from"../chunks/index.f66a2b2d.js";const m=!1,$=!1,v=Object.freeze(Object.defineProperty({__proto__:null,prerender:$,ssr:m},Symbol.toStringTag,{value:"Module"}));function g(n){let s;const a=n[1].default,t=r(a,n,n[0],null);return{c(){t&amp;&amp;t.c()},l(e){t&amp;&amp;t.l(e)},m(e,o){t&amp;&amp;t.m(e,o),s=!0},p(e,[o]){t&amp;&amp;t.p&amp;&amp;(!s||o&amp;1)&amp;&amp;i(t,a,e,e[0],s?f(a,e[0],o,null):u(e[0]),null)},i(e){s||(p(t,e),s=!0)},o(e){d(t,e),s=!1},d(e){t&amp;&amp;t.d(e)}}}function b(n,s,a){let{$$slots:t={},$$scope:e}=s;return n.$$set=o=&gt;{"$$scope"in o&amp;&amp;a(0,e=o.$$scope)},[e,t]}class h extends _{constructor(s){super(),c(this,s,b,g,l,{})}}export{h as component,v as universal};</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jun 2025, 13:06:01 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Jun 2025, 14:08:05 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
