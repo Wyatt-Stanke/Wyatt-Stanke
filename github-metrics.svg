@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1410" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1610" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    86.9k added, 70.6k removed
+                                    852k added, 73.8k removed
                                 </div>
                             </section>
                             <section>
@@ -708,7 +708,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">b955d507</span>
-                            <span class="code">slowroads.io/_app/immutable/chunks/index.85bbc95f.js</span>
+                            <span class="code">slowroads.io/_app/immutable/chunks/singletons.9f85c147.js</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--0</span>
@@ -719,14 +719,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">import{n as f,s as l}from"./scheduler.6cda8fd7.js";const e=[];function h(n,b=f){let i;const o=new Set;function r(t){if(l(n,t)&amp;&amp;(n=t,i)){const c=!e.length;for(const s of o)s[1](),e.push(s,n);if(c){for(let s=0;s&lt;e.length;s+=2)e[s][0](e[s+1]);e.length=0}}}function u(t){r(t(n))}function p(t,c=f){const s=[t,c];return o.add(s),o.size===1&amp;&amp;(i=b(r,u)||f),t(n),()=&gt;{o.delete(s),o.size===0&amp;&amp;i&amp;&amp;(i(),i=null)}}return{set:r,update:u,subscribe:p}}export{h as w};</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">import{w as u}from"./index.85bbc95f.js";var _;const k=((_=globalThis.__sveltekit_1rnf4ic)==null?void 0:_.base)??"";var g;const m=((g=globalThis.__sveltekit_1rnf4ic)==null?void 0:g.assets)??k,w="1740770437175",T="sveltekit:snapshot",y="sveltekit:scroll",I="sveltekit:index",f={tap:1,hover:2,viewport:3,eager:4,off:-1,false:-1},h=location.origin;function S(e){let t=e.baseURI;if(!t){const n=e.getElementsByTagName("base");t=n.length?n[0].href:e.URL}return t}function x(){return{x:pageXOffset,y:pageYOffset}}function c(e,t){return e.getAttribute(`data-sveltekit-${t}`)}const d={...f,"":f.hover};function b(e){let t=e.assignedSlot??e.parentNode;return(t==null?void 0:t.nodeType)===11&amp;&amp;(t=t.host),t}function O(e,t){for(;e&amp;&amp;e!==t;){if(e.nodeName.toUpperCase()==="A"&amp;&amp;e.hasAttribute("href"))return e;e=b(e)}}function U(e,t){let n;try{n=new URL(e instanceof SVGAElement?e.href.baseVal:e.href,document.baseURI)}catch{}const o=e instanceof SVGAElement?e.target.baseVal:e.target,r=!n||!!o||A(n,t)||(e.getAttribute("rel")||"").split(/\s+/).includes("external"),l=(n==null?void 0:n.origin)===h&amp;&amp;e.hasAttribute("download");return{url:n,external:r,target:o,download:l}}function L(e){let t=null,n=null,o=null,r=null,l=null,a=null,s=e;for(;s&amp;&amp;s!==document.documentElement;)o===null&amp;&amp;(o=c(s,"preload-code")),r===null&amp;&amp;(r=c(s,"preload-data")),t===null&amp;&amp;(t=c(s,"keepfocus")),n===null&amp;&amp;(n=c(s,"noscroll")),l===null&amp;&amp;(l=c(s,"reload")),a===null&amp;&amp;(a=c(s,"replacestate")),s=b(s);function i(v){switch(v){case"":case"true":return!0;case"off":case"false":return!1;default:return null}}return{preload_code:d[o??"off"],preload_data:d[r??"off"],keep_focus:i(t),noscroll:i(n),reload:i(l),replace_state:i(a)}}function p(e){const t=u(e);let n=!0;function o(){n=!0,t.update(a=&gt;a)}function r(a){n=!1,t.set(a)}function l(a){let s;return t.subscribe(i=&gt;{(s===void 0||n&amp;&amp;i!==s)&amp;&amp;a(s=i)})}return{notify:o,set:r,subscribe:l}}function E(){const{set:e,subscribe:t}=u(!1);let n;async function o(){clearTimeout(n);try{const r=await fetch(`${m}/_app/version.json`,{headers:{pragma:"no-cache","cache-control":"no-cache"}});if(!r.ok)return!1;const a=(await r.json()).version!==w;return a&amp;&amp;(e(!0),clearTimeout(n)),a}catch{return!1}}return{subscribe:t,check:o}}function A(e,t){return e.origin!==h||!e.pathname.startsWith(t)}function N(e){e.client}const P={url:p({}),page:p({}),navigating:u(null),updated:E()};export{I,f as P,y as S,T as a,U as b,L as c,P as d,k as e,O as f,S as g,N as h,A as i,h as o,x as s};</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jun 2025, 11:07:44 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Jun 2025, 12:08:12 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
