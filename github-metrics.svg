@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1424" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1410" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    604k added, 588k removed
+                                    741k added, 85.1k removed
                                 </div>
                             </section>
                             <section>
@@ -708,7 +708,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">0ee34db8</span>
-                            <span class="code">img/ico_time_day.svg</span>
+                            <span class="code">icon_coloured_comfy.svg</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--0</span>
@@ -719,14 +719,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">&lt;svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#FFFFFF"&gt;&lt;path d="M0 0h24v24H0z" fill="none"/&gt;&lt;path d="M6.76 4.84l-1.8-1.79-1.41 1.41 1.79 1.79 1.42-1.41zM4 10.5H1v2h3v-2zm9-9.95h-2V3.5h2V.55zm7.45 3.91l-1.41-1.41-1.79 1.79 1.41 1.41 1.79-1.79zm-3.21 13.7l1.79 1.8 1.41-1.41-1.8-1.79-1.4 1.4zM20 10.5v2h3v-2h-3zm-8-5c-3.31 0-6 2.69-6 6s2.69 6 6 6 6-2.69 6-6-2.69-6-6-6zm-1 16.95h2V19.5h-2v2.95zm-7.45-3.91l1.41 1.41 1.79-1.8-1.41-1.41-1.79 1.8z"/&gt;&lt;/svg&gt;<br /></span></span>\No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">&lt;svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 1000"&gt;&lt;defs&gt;&lt;style&gt;.cls-1{isolation:isolate;}.cls-2{fill:#343c3e;}&lt;/style&gt;&lt;/defs&gt;&lt;title&gt;icon_coloured_comfy&lt;/title&gt;&lt;image class="cls-1" width="1000" height="1000" xlink:href="1B05429D.png"/&gt;&lt;path class="cls-2" d="M500,206c-61.42,0-104.51,21.35-127.85,40.25-13.7,11.72-18.33,19.47-31.66,32.41-16.63,16.16-31.75,5.58-57.83,29.2C231.73,355.66,204.32,424.17,204.32,500c0,163.29,132.3,295.77,295.68,295.77S795.68,663.33,795.68,500,663.29,206.07,500,206Zm-.28,554.12C356.08,760.1,239.57,643.59,239.57,500c0-103.56,62.46-175.29,79.38-175.29,11.43,0,6.52,24.95,52.44,50.18C510.39,446,722,407.25,722,578.86,722.06,683.08,609.8,760.1,499.72,760.1ZM734.63,422c-45.92-17.48-79.18-27.12-120.2-34.58C556,376.82,495.37,375.79,437.07,363.88c-23.53-5.67-80.89-19.47-73.8-55.66,6.42-30.43,59.15-67.37,136.35-67.37,112.07,0,207.42,69.92,244.08,169.24a12.27,12.27,0,0,1,.19,7.37A7.89,7.89,0,0,1,734.63,422Z" transform="translate(0 0)"/&gt;&lt;/svg&gt;<br /></span></span>\No newline at end of file</code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jun 2025, 06:07:41 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Jun 2025, 07:06:59 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
